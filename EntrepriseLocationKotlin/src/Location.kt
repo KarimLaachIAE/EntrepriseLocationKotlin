@@ -1,0 +1,1 @@
+class Location(var dateDebutLocation: String, var dureeLocation: Int, var nomClient: String)
